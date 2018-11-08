@@ -19,8 +19,8 @@ Vist que la página de Rawgit ja no se pot utilitzar en aquest cas utilitzaré [
 i la URL resultant de el document html seria **[enllaç del resultat](https://raw.githack.com/NMari2/LMSGI_01/master/codihtml.html)**.
 
 D. **Edita README.md explicant el que has fet**
-Per poder editar el document README.md he utilitzat lo aprés al [tutorial online](http://www.markdowntutorial.com/).
-   ![Logo Github](http://vectorlogofree.com/wp-content/uploads/2014/02/25231-github-cat-in-a-circle-icon-vector-icon-vector-eps.png)
+Per poder editar el document README.md he utilitzat lo aprés al [tutorial online](http://www.markdowntutorial.com/).  
+![Logo Github](http://vectorlogofree.com/wp-content/uploads/2014/02/25231-github-cat-in-a-circle-icon-vector-icon-vector-eps.png)
 
 
 #### Marignacia B. Flores Muñoz
