@@ -1,5 +1,5 @@
 # LMSGI 01 2018
-### Introducció als Llenguatges de Marques LMSGI_01      ![Logo Github](https://t2marketinginternational.com/wp-content/uploads/2018/06/Github-Logo-300x300.png)
+### Introducció als Llenguatges de Marques LMSGI_01      ![Logo Github](http://vectorlogofree.com/wp-content/uploads/2014/02/25231-github-cat-in-a-circle-icon-vector-icon-vector-eps.png)
 
 A. **Crea Documents**  
 He creat 3 documents amb els bloc de notes als que els hi he copiat els exemples del temari i canviat les extensions per les seves correspònents:
